@@ -1,2 +1,2 @@
 # repo3rck
-Repositório da Pós DevOps
+Repositório da Disciplina de introdução da Pós DevOps
